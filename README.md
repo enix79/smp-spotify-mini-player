@@ -1,0 +1,1 @@
+# smp-spotify-mini-player
